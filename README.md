@@ -1,5 +1,4 @@
-# MarketingCloudSDK - Push Feature Module SDK for iOS
-=====================================================
+# Push Feature Module SDK for iOS
 
 This is the git repository for the Salesforce Marketing Cloud Push Feature Module SDK for iOS.<br>
 
